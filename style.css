@@ -1,0 +1,14 @@
+/*Container que abriga a barra de rolagem*/
+::-webkit-scrollbar {
+    width: 14px;
+}
+
+/*Barra de rolagem*/
+::-webkit-scrollbar-thumb {
+    background-color: #007BFF;
+    border-radius: 10px;
+}
+/*Container restante da barra de rolagem*/
+::-webkit-scrollbar-track {
+    background-color: rgb(197, 197, 197);
+}
